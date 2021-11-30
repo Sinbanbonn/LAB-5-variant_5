@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.20)
+project(task1_static)
+set(CMAKE_CXX_STANDARD 14)
+add_executable(task1_static main.cpp)
+add_library(test_library STATIC library.cpp)
+include_directories(library)
+target_link_libraries(task1_static test_library)

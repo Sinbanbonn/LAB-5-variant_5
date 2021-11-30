@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrejlogvinov/Desktop/Fifth lab/2_with_shared/library.cpp
+library.h
+/Users/andrejlogvinov/Desktop/Fifth lab/2_with_shared/library.h
+iostream
+-
+
+/Users/andrejlogvinov/Desktop/Fifth lab/2_with_shared/library.h
+

@@ -1,0 +1,10 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/test_library.dir/library.cpp.o"
+  "libtest_library.dylib"
+  "libtest_library.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/test_library.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

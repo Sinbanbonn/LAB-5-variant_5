@@ -1,0 +1,4 @@
+/Users/andrejlogvinov/Desktop/Fifth lab/2_with_shared/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/andrejlogvinov/Desktop/Fifth lab/2_with_shared/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andrejlogvinov/Desktop/Fifth lab/2_with_shared/cmake-build-debug/CMakeFiles/test_library.dir
+/Users/andrejlogvinov/Desktop/Fifth lab/2_with_shared/cmake-build-debug/CMakeFiles/2_with_shared.dir

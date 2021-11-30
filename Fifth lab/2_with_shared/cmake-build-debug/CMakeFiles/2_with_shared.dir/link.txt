@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/2_with_shared.dir/task2.cpp.o -o 2_with_shared  -Wl,-rpath,"/Users/andrejlogvinov/Desktop/Fifth lab/2_with_shared/cmake-build-debug" libtest_library.dylib 

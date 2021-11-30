@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -dynamiclib -Wl,-headerpad_max_install_names -o libtest_library.dylib -install_name @rpath/libtest_library.dylib CMakeFiles/test_library.dir/library.cpp.o 
